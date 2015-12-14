@@ -1,0 +1,12 @@
+c:\users\margie\documents\visual studio 2012\Projects\Granola.cs\Granola\bin\Debug\Granola.exe.config
+C:\Users\Margie\documents\visual studio 2012\Projects\Granola.cs\Granola\obj\Debug\Granola.csprojResolveAssemblyReference.cache
+C:\Users\Margie\Documents\Visual Studio 2012\Projects\Granola.cs\Granola\bin\Debug\Granola.exe
+C:\Users\Margie\Documents\Visual Studio 2012\Projects\Granola.cs\Granola\bin\Debug\Granola.pdb
+C:\Users\Margie\Documents\Visual Studio 2012\Projects\Granola.cs\Granola\obj\Debug\Granola.exe
+C:\Users\Margie\Documents\Visual Studio 2012\Projects\Granola.cs\Granola\obj\Debug\Granola.pdb
+E:\ \Granola.cs\Granola\bin\Debug\Granola.exe.config
+E:\ \Granola.cs\Granola\obj\Debug\Granola.exe
+E:\ \Granola.cs\Granola\obj\Debug\Granola.pdb
+E:\ \Granola.cs\Granola\bin\Debug\Granola.exe
+E:\ \Granola.cs\Granola\bin\Debug\Granola.pdb
+E:\ \Granola.cs\Granola\obj\Debug\Granola.csprojResolveAssemblyReference.cache
